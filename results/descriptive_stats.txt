@@ -1,33 +1,11 @@
-Test #1: Paired T Test for Baseline vs. Week 4 NT-proBNP
-We are interested in comparing these two groups: Week 4 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
-
-
-We will use a Paired T-Test because the observations being compared come from the same sample
-
-There is a significant difference between Group 1:  Week 4 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-Test #2: Paired T Test for Baseline vs. Week 8 NT-proBNP
-We are interested in comparing these two groups: Week 8 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
-
-
-We will use a Paired T-Test because the observations being compared come from the same sample
-
-There is a significant difference between Group 1:  Week 8 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
-
-----------------------------------------------------------------------------------------------------------------------------------
-
-
-
-For the Paired T-Test between the Baseline vs. Week 4 NT-proBNP, our hypotheses are as follows:
-H0: The mean NT-proBNP at Baseline is equal to the mean NT-proBNP at Week 4 
-H1: The mean NT-proBNP at Baseline is not equal to the mean NT-proBNP at Week 4 
-Since the p-value is < .05, we fail to reject the null hypothesis that the mean NT-proBNP at Baseline is equal to the mean NT-proBNP at Week 4.
-
-For the Paired T-Test between the Baseline vs. Week 8 NT-proBNP, our hypotheses are as follows:
-H0: The mean NT-proBNP at Baseline is equal to the mean NT-proBNP at Week 8
-H1: The mean NT-proBNP at Baseline is not equal to the mean NT-proBNP at Week 8
-Since the p-value is < .05, we fail to reject the null hypothesis that the mean NT-proBNP at Baseline is equal to the mean NT-proBNP at Week 8.
+mean	mean	median	median	std	std
+Enalapril	Sacubitril-valsartan	Enalapril	Sacubitril-valsartan	Enalapril	Sacubitril-valsartan
+50.20781893004115	49.022821576763484	51.0	50.0	18.218604419266114	17.513567592538386
+24.53482809505724	24.46300516991426	24.302487059714682	23.299799895836188	8.771945712023534	9.036747455681834
+183.60493827160494	182.850622406639	184.5	183.0	17.77628143759991	17.52890365166254
+32.36422839506173	32.266392116182566	31.0205	31.3705	5.404897259988122	5.134303613784833
+1533.4845658436216	1548.8435767634853	1484.6765	1516.2714999999998	187.7886617903902	176.05658076701204
+6193.428117283952	6148.497446058092	6037.857	5993.7555	733.8375650879975	716.1772779441867
+4626.4907942386835	3277.1491556016595	4510.279	3194.6719999999996	548.1766613892408	381.7224680146889
+3455.9886213991767	1746.7205020746887	3369.1785	1702.76	409.4879440675749	203.45808498076073
+80.40123456790124	79.33471933471934	80.0	81.0	23.723439157993273	23.31456582388957
