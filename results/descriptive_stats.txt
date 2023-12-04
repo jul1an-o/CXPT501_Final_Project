@@ -1,0 +1,104 @@
+Test #1
+We are interested in comparing these two groups: Week 4 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
+
+
+We will use a Paired T-Test because the observations being compared come from the same sample
+
+There is a significant difference between Group 1:  Week 4 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #2
+We are interested in comparing these two groups: Week 8 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
+
+
+We will use a Paired T-Test because the observations being compared come from the same sample
+
+There is a significant difference between Group 1:  Week 8 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #3
+We are interested in comparing these two groups: Week 4 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
+
+
+We will use a Paired T-Test because the observations being compared come from the same sample
+
+There is a significant difference between Group 1:  Week 4 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #4
+We are interested in comparing these two groups: Week 8 NT-proBNP (pg/mL) and Pre-treatment NT-proBNP (pg/mL)
+
+
+We will use a Paired T-Test because the observations being compared come from the same sample
+
+There is a significant difference between Group 1:  Week 8 NT-proBNP (pg/mL)  and Group 2:  Pre-treatment NT-proBNP (pg/mL) with a p-value of:  0.0 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #5
+We are interested in comparing these two groups: Week 4 NT-proBNP (pg/mL) and Week 4 NT-proBNP (pg/mL)
+
+
+We will use an Independent T-Test because the observations being compared come from different groups; first we must assess the variance
+
+The Levene test has a p-value of:  1.054209343166279e-10  and is singificant, therefore we assume the data does not have equal variance and proceed with the Welch Independent T-Test
+
+There is a significant difference between Group 1:  Week 4 NT-proBNP (pg/mL)  and Group 2:  Week 4 NT-proBNP (pg/mL) with a p-value of:  7.654682030736967e-226 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #6
+We are interested in comparing these two groups: Week 8 NT-proBNP (pg/mL) and Week 8 NT-proBNP (pg/mL)
+
+
+We will use an Independent T-Test because the observations being compared come from different groups; first we must assess the variance
+
+The Levene test has a p-value of:  5.636619855764233e-32  and is singificant, therefore we assume the data does not have equal variance and proceed with the Welch Independent T-Test
+
+There is a significant difference between Group 1:  Week 8 NT-proBNP (pg/mL)  and Group 2:  Week 8 NT-proBNP (pg/mL) with a p-value of:  0.0 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #7
+We are interested in comparing these two groups: Week 4 NT-proBNP (pg/mL) and Week 4 NT-proBNP (pg/mL)
+
+
+We will use an Independent T-Test because the observations being compared come from different groups; first we must assess the variance
+
+The Levene test has a p-value of:  0.0002981293092348587  and is singificant, therefore we assume the data does not have equal variance and proceed with the Welch Independent T-Test
+
+There is a significant difference between Group 1:  Week 4 NT-proBNP (pg/mL)  and Group 2:  Week 4 NT-proBNP (pg/mL) with a p-value of:  7.052467560068001e-83 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Test #8
+We are interested in comparing these two groups: Week 8 NT-proBNP (pg/mL) and Week 8 NT-proBNP (pg/mL)
+
+
+We will use an Independent T-Test because the observations being compared come from different groups; first we must assess the variance
+
+The Levene test has a p-value of:  8.549181811930662e-11  and is singificant, therefore we assume the data does not have equal variance and proceed with the Welch Independent T-Test
+
+There is a significant difference between Group 1:  Week 8 NT-proBNP (pg/mL)  and Group 2:  Week 8 NT-proBNP (pg/mL) with a p-value of:  1.2801452852353718e-137 
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
